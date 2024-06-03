@@ -1,0 +1,25 @@
+body {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #444;
+}
+
+fieldset {
+    margin: 15px auto;
+}
+
+legend {
+    display: block;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-style: italic;
+    border: none;
+}
+
+li {
+    margin: 5px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 5px 9px;
+}
